@@ -1,0 +1,24 @@
+{
+   "octave.alwaysUseAbsolutePaths": true,
+   "octave.octaveLocation": {
+		[
+		"C:\\PortableApps\\OctavePortable\\octave-launch.exe"
+		"D:\\PortableApps\\OctavePortable\\octave-launch.exe"
+		]
+	},
+   "octave.clearPreviousOutput": true,
+   "files.autoSave": "onFocusChange",
+   "editor.fontSize": 15,
+   "editor.tabSize": 3,
+   "editor.wordWrap": "on",
+   "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+   "files.trimFinalNewlines": true,
+   "files.trimTrailingWhitespace": true,
+   "files.exclude": {
+      "**/.vscode": true,
+      "**/desktop.ini": true
+   },
+   "files.autoSaveWorkspaceFilesOnly": true,
+   "workbench.colorTheme": "Default Dark Modern",
+   "workbench.preferredHighContrastColorTheme": "Default Dark Modern"
+}
