@@ -1,5 +1,5 @@
 # Ejercicio 2 $(5 \space puntos)$ #
-Implementa una función, `resistencia.m` que recibe como argumente el valor de tres resistencias en paralelo $R_1$, $R_2$ y $R_3$, implementar el algoritmo en base a la siguiente ecuación.
+Implementa una función, `resistencia.m` que recibe como argumento el valor de tres resistencias en paralelo $R_1$, $R_2$ y $R_3$, implementar el algoritmo en base a la siguiente ecuación.
 
 $$
 \displaystyle
