@@ -1,4 +1,4 @@
-clc
+clc;
 clear all;
 op = menuF();
 while(op ~= 'S')
@@ -20,9 +20,9 @@ while(op ~= 'S')
          R  = resistencia(r1, r2, r3);
          fprintf('Resistencia: %.2f Ohm\n', R);
       otherwise
-         fprintf('No es ninguna de las opciones propuestas, intente de nuevo en %d seg.', tiempo)
+         fprintf('No es ninguna de las opciones propuestas, intente de nuevo en %d seg.', tiempo);
    endswitch
-   pause(tiempo)
+   pause(tiempo);
    op = menuF();
 endwhile
 
