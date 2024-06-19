@@ -7,7 +7,7 @@ function op = menuF()
    fprintf('\t\t Ejercicios de Física\n')
    fprintf('\t************************\n')
    disp('Distancia:                    D')
-   disp('Resistencia en paralelo:      C')
+   disp('Resistencia en paralelo:      R')
    disp('Abandonar el Sistema:         S')
    op1 = input('Seleccionar una opción: ', 's');
    % convierte el caracter ingresado en mayuscula
