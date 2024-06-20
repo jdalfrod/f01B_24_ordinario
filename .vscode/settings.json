@@ -2,7 +2,7 @@
    "octave.alwaysUseAbsolutePaths": true,
    "octave.octaveLocation": {
 		[
-		"C:\\PortableApps\\OctavePortable\\octave-launch.exe"
+		"C:\\PortableApps\\OctavePortable\\octave-launch.exe",
 		"D:\\PortableApps\\OctavePortable\\octave-launch.exe"
 		]
 	},
